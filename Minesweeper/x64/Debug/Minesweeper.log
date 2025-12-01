@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\rafat\source\repos\Minesweeper\Minesweeper\Main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rafat\source\repos\Minesweeper\Minesweeper\Main.cpp(73,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rafat\source\repos\Minesweeper\Minesweeper\Main.cpp(74,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Minesweeper.vcxproj -> C:\Users\rafat\source\repos\Minesweeper\x64\Debug\Minesweeper.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
