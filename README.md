@@ -40,7 +40,7 @@ https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix.git
 
 - Presentation : https://codingburgas-my.sharepoint.com/:p:/g/personal/savatansever24_codingburgas_bg/IQC0q0wghs5zT4bEhu61ghUDAStgJNgqq7ObMdxqkllRAms?rtime=dCoAzdk13kg
 
-- Documentation
+- Documentation : https://codingburgas-my.sharepoint.com/:w:/g/personal/savatansever24_codingburgas_bg/IQDIqHv-5eTcR5eVwoXBq7nhAeR5MiPbz8-vyVdjxlwFOhc?e=uXqiYY
  
   
 
