@@ -1,29 +1,32 @@
 # Digitronix
+
+<img width="850" height="400" alt="digitronix" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Digitronix%20Logo.png?raw=true" />
  
-Digitronix – Description
+We made a simple console-based implementation of the classic Minesweeper game built using C++. The game features random mine placement, cell reveal logic, flagging system, and automatic win/loss detection. This project demonstrates core C++ concepts such as arrays, loops, functions, and basic game logic.
  
 -Tech Stack Used code editor & collaborative service:
  
-<img width="60" height="60" alt="github" src="https://github.com/user-attachments/assets/4e9ea5f2-db4b-4caf-a469-ffe5b2c32a80" />
-<img width="60" height="60" alt="git" src="https://github.com/user-attachments/assets/48a08927-d62f-4514-81ae-54cd77c13c6e" />
-<img width="60" height="60" alt="Visual_Studio_Icon_2022" src="https://github.com/user-attachments/assets/965c0fd8-ce98-4ea7-b94c-cf36f0d5f370" />
+<img width="60" height="60" alt="github" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/GitHub%20Logo.png?raw=true" />
+<img width="60" height="60" alt="git" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Git%20Logo.png?raw=true" />
+<img width="60" height="60" alt="Visual_Studio_Icon_2022" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/VS%202022%20Logo.png?raw=true" />
+<img width="60" height="60" alt="Raylib" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Raylib%20Logo.png?raw=true" />
  
  
 -Design👩🏽‍💻
  
-<img width="60" height="60" alt="canva" src="https://github.com/user-attachments/assets/946eb955-0c6e-4857-8d4e-49f104c725a7" />
+<img width="60" height="60" alt="canva" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Canva%20Logo.png?raw=true" />
  
  
 -Program👾
  
-<img width="60" height="60" alt="C++" src="https://github.com/user-attachments/assets/1800655f-59e4-45e5-9d33-6ef0e385d23c" />
+<img width="60" height="60" alt="C++" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/C++%20Logo.png?raw=true" />
  
  
 -Used tools for our documentation, presentation & communication:
  
-<img width="60" height="60" alt="word" src="https://github.com/user-attachments/assets/4070841c-4182-4db7-9b0f-50e2066755d5" />
-<img width="60" height="60" alt="powerpoint" src="https://github.com/user-attachments/assets/ab64f82b-6019-400b-be06-56f6fae4ce4a" />
-<img width="60" height="60" alt="teams" src="https://github.com/user-attachments/assets/b9a45c81-3565-464b-bbf8-4a0e08e7e511" />
+<img width="60" height="60" alt="word" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Word%20Logo.png?raw=true" />
+<img width="60" height="60" alt="powerpoint" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Powerpoint%20Logo.png?raw=true" />
+<img width="60" height="60" alt="teams" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Teams%20Logo.png?raw=true" />
  
  
 -Installation📥
@@ -35,19 +38,17 @@ https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix.git
  
 -Documents 🗂
 
-- Presentation
+- Presentation : https://codingburgas-my.sharepoint.com/:p:/g/personal/savatansever24_codingburgas_bg/IQC0q0wghs5zT4bEhu61ghUDAStgJNgqq7ObMdxqkllRAms?rtime=dCoAzdk13kg
 
 - Documentation
  
   
 
--👩🏽‍💻👩🏽‍💻Our Team👩🏽‍💻🧑🏽‍💻
+-Our Team👩🏻‍💻👨🏻‍💻👨🏻
 
 - Rafail Kolibarov (Scrum trainer)
 
 - Radoslav Stoyanov (Frontend Developer)
-
-- ??? (Backend Developer)
 
 - Selin Vatansever (Designer)
 
