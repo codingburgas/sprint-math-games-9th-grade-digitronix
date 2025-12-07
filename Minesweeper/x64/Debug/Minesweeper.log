@@ -1,7 +1,17 @@
 ﻿  Main.cpp
-C:\Users\rafat\source\repos\Minesweeper\Minesweeper\Main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\rafat\source\repos\Minesweeper\Minesweeper\Main.cpp(73,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\rafat\source\repos\Minesweeper\Minesweeper\Main.cpp(74,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  Minesweeper.vcxproj -> C:\Users\rafat\source\repos\Minesweeper\x64\Debug\Minesweeper.exe
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(50,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(51,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(60,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(61,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(101,40): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(101,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(101,58): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(101,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(102,29): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(102,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(102,50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\rafat\source\repos\sprint-math-games-9th-grade-digitronix\Minesweeper\Main.cpp(102,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Minesweeper.vcxproj -> C:\Users\rafat\Source\Repos\sprint-math-games-9th-grade-digitronix\x64\Debug\Minesweeper.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
