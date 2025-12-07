@@ -43,7 +43,7 @@ https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix.git
 
 -👩🏽‍💻👩🏽‍💻Our Team👩🏽‍💻🧑🏽‍💻
 
-- Rafail Mihailov (Scrum trainer)
+- Rafail Kolibarov (Scrum trainer)
 
 - Radoslav Stoyanov (Frontend Developer)
 
