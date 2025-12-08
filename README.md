@@ -2,7 +2,7 @@
 
 <img width="850" height="400" alt="digitronix" src="https://github.com/codingburgas/sprint-math-games-9th-grade-digitronix/blob/main/Logos/Digitronix%20Logo.png?raw=true" />
  
-We made a simple console-based implementation of the classic Minesweeper game built using C++. The game features random mine placement, cell reveal logic, flagging system, and automatic win/loss detection. This project demonstrates core C++ concepts such as arrays, loops, functions, and basic game logic.
+We made a simple implementation of the classic Minesweeper game built using C++ and Raylib. The game features random mine placement, cell reveal logic, flagging system, and automatic win/loss detection. This project demonstrates core C++ concepts such as loops, functions, and basic game logic. We used Raylib for our drawing to look like the real game than a console-based program.
  
 -Tech Stack Used code editor & collaborative service:
  
